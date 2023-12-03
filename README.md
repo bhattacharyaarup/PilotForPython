@@ -15,10 +15,9 @@ A group of Python codes are used in the Pilot course of the Alphabetz Digital Ac
 - [Dictionary](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Dictionary)
 - [Module](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Module)
 - [Function](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Function)
-- [Recursion](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Recursion)
-- [Exception Handling](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Exception%20Handling)
 - [Class and Object](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Class%20and%20Object)
 - [Inheritance](https://github.com/bhattacharyaarup/PilotForPython/tree/master/Inheritance)
+- [Database with Python]()
 
 ## License
 
